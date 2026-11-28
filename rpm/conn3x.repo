@@ -1,0 +1,7 @@
+[conn3x]
+name=Conn3x
+baseurl=https://conn3xorg.github.io/packages/rpm
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://conn3xorg.github.io/packages/conn3x.asc

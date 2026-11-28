@@ -1,0 +1,45 @@
+Package: conn3x-ui
+Architecture: arm64
+Version: 0.4.1
+Priority: optional
+Maintainer: The Conn3x Authors <security@conn3x.org>
+Installed-Size: 14150
+Filename: pool/main/c/conn3x-ui/conn3x-ui_0.4.1_arm64.deb
+Size: 5944240
+MD5sum: d404eb851b26f53a18692a77630cdc72
+SHA1: 48326791b71cf2dc9d98ec3e1b0cd1a2ad1073f6
+SHA256: 2818888aa56ec43f538540d76e15bcab4478b078d70a2c088b721f3e603a6a23
+SHA512: a8251fe3d738c291f372879cbfc20f11e947922bb60ee5683d5ba5c8c53d8da5fc950202695b6c66d6e440596c16d3a6e8e36e75656fc5eee9250cffa8e36067
+Homepage: https://conn3x.org
+Description: A web UI for Conn3x. Plan from the browser, apply exactly that plan.
+
+Package: conn3x
+Architecture: arm64
+Version: 0.38.0
+Priority: optional
+Maintainer: The Conn3x Authors <security@conn3x.org>
+Installed-Size: 107182
+Filename: pool/main/c/conn3x/conn3x_0.38.0_arm64.deb
+Size: 35508700
+MD5sum: 6ca9a7dcc019d4c05dde9f26eaf3884f
+SHA1: cfc84801660c450b9e5688137be4273a36aa0675
+SHA256: 5b0d568ffe734c03106b07d6f74bd29a73b2c1ccb17e1901a9bcbedc196de14a
+SHA512: 9416f96cf1d7cd1ab7ba542e64ae735b2c21c67a9893193ff5b6a5befff7a112d8d24584c66bcdcb6e3d718657e25d4f1aff87badc753ad118e022ce641fdc1b
+Homepage: https://conn3x.org
+Description: One plan for your cloud and the servers it creates.
+
+Package: conn3x
+Architecture: arm64
+Version: 0.39.0
+Priority: optional
+Maintainer: The Conn3x Authors <security@conn3x.org>
+Installed-Size: 107246
+Filename: pool/main/c/conn3x/conn3x_0.39.0_arm64.deb
+Size: 35532814
+MD5sum: 9ec043f238eb98029f399a831edc8472
+SHA1: 3fc081ec61269db17c430490a5c9437fa98d2985
+SHA256: 8cb8aaff2b3d67894be622c610cef421f643098bdb06ac4e0f9056335657f8ec
+SHA512: ffe67254257753f6e51335e04d5fa94f1802957d2e815877f927195c66e7e791b3403613a2e340f6b54fb9a388ab5c6a8a59efd08ff1513bd546866db6f737ff
+Homepage: https://conn3x.org
+Description: One plan for your cloud and the servers it creates.
+
